@@ -1,9 +1,11 @@
-const CACHE_NAME = 'ponto-v1';
+const CACHE_NAME = 'ponto-v2';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './icon.svg'
+  './icon-192.png',
+  './icon-512.png',
+  './icon-maskable-512.png'
 ];
 
 // Instala e salva os arquivos no celular
