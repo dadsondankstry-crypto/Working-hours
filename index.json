@@ -1,0 +1,17 @@
+{
+  "name": "Ponto - Work / Tack / Rest",
+  "short_name": "Ponto",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f18",
+  "theme_color": "#0b0f18",
+  "description": "Aplicativo para marcar hora de trabalho, tack break e descanso.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
